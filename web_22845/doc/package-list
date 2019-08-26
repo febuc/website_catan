@@ -1,0 +1,20 @@
+unnamed package
+ai
+application
+controller
+gameobjects
+gameobjects.Cards
+gameobjects.Elements
+gameplay
+gameworld
+logging
+menu
+networking
+networking.MessageObjects
+player
+resources
+resources.hexagons
+sound
+testing
+tools
+view
